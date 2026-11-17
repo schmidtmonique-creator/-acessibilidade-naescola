@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Dicas para tornar a escola mais acessível para todos.">
+    <title>Acessibilidade na Escola</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>♿ Acessibilidade na Escola</h1>
+        <p>Informação clara e acessível para todos.</p>
+    </header>
+
+    <main>
+        <section class="introducao">
+            <h2>Uma escola para todos!</h2>
+            <p>
+                A acessibilidade é importante para garantir que
+                todos os alunos possam aprender, participar e
+                conviver no ambiente escolar.
+            </p>
+        </section>
+
+        <section class="cards" aria-label="Dicas de acessibilidade">
+
+            <article class="card">
+                <h2>🔊 Comunicação</h2>
+                <p>
+                    Uma comunicação clara ajuda todos a compreender
+                    avisos, orientações e atividades escolares.
+                </p>
+                <strong>Dica: fale de forma clara e objetiva.</strong>
+            </article>
+
+            <article class="card">
+                <h2>🎨 Ambiente</h2>
+                <p>
+                    Um ambiente organizado e sem excesso de estímulos
+                    visuais facilita a concentração dos alunos.
+                </p>
+                <strong>Dica: mantenha os espaços organizados.</strong>
+            </article>
+
+            <article class="card">
+                <h2>📚 Informação</h2>
+                <p>
+                    Informações bem organizadas facilitam a leitura,
+                    a compreensão e o aprendizado.
+                </p>
+                <strong>Dica: organize textos e atividades.</strong>
+            </article>
+
+            <article class="card">
+                <h2>🧭 Orientação</h2>
+                <p>
+                    Placas, sinais e indicações ajudam os alunos
+                    a encontrar salas e outros espaços.
+                </p>
+                <strong>Dica: utilize placas visíveis.</strong>
+            </article>
+
+            <article class="card">
+                <h2>💬 Linguagem</h2>
+                <p>
+                    Utilizar palavras simples e frases curtas
+                    torna a comunicação mais fácil.
+                </p>
+                <strong>Dica: prefira textos fáceis de entender.</strong>
+            </article>
+
+            <article class="card">
+                <h2>🕐 Rotina</h2>
+                <p>
+                    Uma rotina organizada ajuda os alunos a
+                    compreender os horários e as atividades.
+                </p>
+                <strong>Dica: apresente horários e cronogramas.</strong>
+            </article>
+
+        </section>
+
+        <section class="saiba-mais">
+            <h2>Aprender também é incluir!</h2>
+            <p>
+                Uma escola acessível respeita as diferenças
+                e oferece oportunidades para todos.
+            </p>
+
+            <a href="https://www.gov.br/mdh/pt-br/assuntos/pessoa-com-deficiencia"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="botao">
+                📖 Saiba mais sobre acessibilidade
+            </a>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Projeto escolar - Acessibilidade na Escola</p>
+    </footer>
+
+</body>
+</html>
